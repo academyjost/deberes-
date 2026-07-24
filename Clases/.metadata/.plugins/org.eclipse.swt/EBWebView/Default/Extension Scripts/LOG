@@ -1,0 +1,7 @@
+<<<<<<< HEAD
+2026/07/22-19:37:12.589 3550 Creating DB C:\Users\Johann\OneDrive\Documents\ECLIPSE\Clases\.metadata\.plugins\org.eclipse.swt\EBWebView\Default\Extension Scripts since it was missing.
+2026/07/22-19:37:12.598 3550 Reusing MANIFEST C:\Users\Johann\OneDrive\Documents\ECLIPSE\Clases\.metadata\.plugins\org.eclipse.swt\EBWebView\Default\Extension Scripts/MANIFEST-000001
+=======
+2026/07/20-21:46:39.457 24d0 Creating DB C:\Users\Johann\OneDrive\Documents\ECLIPSE\.metadata\.plugins\org.eclipse.swt\EBWebView\Default\Extension Scripts since it was missing.
+2026/07/20-21:46:39.465 24d0 Reusing MANIFEST C:\Users\Johann\OneDrive\Documents\ECLIPSE\.metadata\.plugins\org.eclipse.swt\EBWebView\Default\Extension Scripts/MANIFEST-000001
+>>>>>>> a9f9ed119f2c74b268fcd01bb9f177a6260264ee

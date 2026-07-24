@@ -1,0 +1,7 @@
+<<<<<<< HEAD
+2026/07/22-19:41:41.465 3344 Creating DB C:\Users\Johann\OneDrive\Documents\ECLIPSE\Clases\.metadata\.plugins\org.eclipse.swt\EBWebView\Default\Session Storage since it was missing.
+2026/07/22-19:41:41.533 3344 Reusing MANIFEST C:\Users\Johann\OneDrive\Documents\ECLIPSE\Clases\.metadata\.plugins\org.eclipse.swt\EBWebView\Default\Session Storage/MANIFEST-000001
+=======
+2026/07/21-19:41:44.145 5360 Creating DB C:\Users\Johann\OneDrive\Documents\ECLIPSE\.metadata\.plugins\org.eclipse.swt\EBWebView\Default\Session Storage since it was missing.
+2026/07/21-19:41:44.165 5360 Reusing MANIFEST C:\Users\Johann\OneDrive\Documents\ECLIPSE\.metadata\.plugins\org.eclipse.swt\EBWebView\Default\Session Storage/MANIFEST-000001
+>>>>>>> a9f9ed119f2c74b268fcd01bb9f177a6260264ee

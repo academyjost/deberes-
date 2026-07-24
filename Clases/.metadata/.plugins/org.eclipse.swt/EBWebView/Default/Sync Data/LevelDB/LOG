@@ -1,0 +1,9 @@
+<<<<<<< HEAD
+2026/07/22-19:41:41.092 824 Reusing MANIFEST C:\Users\Johann\OneDrive\Documents\ECLIPSE\Clases\.metadata\.plugins\org.eclipse.swt\EBWebView\Default\Sync Data\LevelDB/MANIFEST-000001
+2026/07/22-19:41:41.103 824 Recovering log #3
+2026/07/22-19:41:41.105 824 Reusing old log C:\Users\Johann\OneDrive\Documents\ECLIPSE\Clases\.metadata\.plugins\org.eclipse.swt\EBWebView\Default\Sync Data\LevelDB/000003.log 
+=======
+2026/07/21-19:41:43.816 337c Reusing MANIFEST C:\Users\Johann\OneDrive\Documents\ECLIPSE\.metadata\.plugins\org.eclipse.swt\EBWebView\Default\Sync Data\LevelDB/MANIFEST-000001
+2026/07/21-19:41:43.819 337c Recovering log #3
+2026/07/21-19:41:43.820 337c Reusing old log C:\Users\Johann\OneDrive\Documents\ECLIPSE\.metadata\.plugins\org.eclipse.swt\EBWebView\Default\Sync Data\LevelDB/000003.log 
+>>>>>>> a9f9ed119f2c74b268fcd01bb9f177a6260264ee

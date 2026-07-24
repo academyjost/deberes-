@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="NewWizardAction">
+<<<<<<< HEAD
+		<section name="NewWizard.dialogBounds">
+			<item key="DIALOG_X_ORIGIN" value="232"/>
+			<item key="DIALOG_Y_ORIGIN" value="80"/>
+			<item key="DIALOG_WIDTH" value="560"/>
+			<item key="DIALOG_HEIGHT" value="500"/>
+			<item key="DIALOG_FONT_NAME" value="1|Segoe UI|9.0|0|WINDOWS|1|-15|0|0|0|400|0|0|0|1|0|0|0|0|Segoe UI"/>
+		</section>
+	</section>
+	<section name="ImportExportAction">
+		<section name="ImportExportWizard.dialogBounds">
+			<item key="DIALOG_X_ORIGIN" value="495"/>
+			<item key="DIALOG_Y_ORIGIN" value="76"/>
+			<item key="DIALOG_WIDTH" value="560"/>
+			<item key="DIALOG_HEIGHT" value="550"/>
+			<item key="DIALOG_FONT_NAME" value="1|Segoe UI|9.0|0|WINDOWS|1|-15|0|0|0|400|0|0|0|1|0|0|0|0|Segoe UI"/>
+=======
+		<item key="NewWizardSelectionPage.STORE_SELECTED_ID" value="org.eclipse.jdt.ui.wizards.JavaProjectWizard"/>
+		<list key="NewWizardSelectionPage.STORE_EXPANDED_CATEGORIES_ID">
+		</list>
+		<section name="NewWizard.dialogBounds">
+>>>>>>> a9f9ed119f2c74b268fcd01bb9f177a6260264ee
+		</section>
+	</section>
+</section>
